@@ -1,2 +1,2 @@
 # Group-Project-EV---INFR-2820U
-Simply run the code, and input the starting node, and you will get all the information you need!
+The project implements Dijkstra's algorithm for finding the shortest paths in a graph. It showcases the algorithm's efficiency, real-world applicability, and insights into optimal path-finding. The project emphasizes the importance of efficient routing algorithms. Simply run the code, and input the starting node, and you will get all the information you need! Simply run the code, and input the starting node, and you will get all the information you need!
